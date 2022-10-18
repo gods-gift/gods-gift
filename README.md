@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gods-gift
-- 👀 I’m interested in DATA SCIENCE AI/ML
+- 👀 I’m interested in PROBLEM SOLVING
 - 🌱 I’m currently learning SOMETHING
-- 💞️ I’m looking to collaborate on DATA SCIENCE PROJECTS 
+- 💞️ I’m looking to collaborate on DATA STRUCTURES AND ALGORITHMS 
 - 📫 How to reach me veenuchhabra2@gmail.com
 
 <!---
