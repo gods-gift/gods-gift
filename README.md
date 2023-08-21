@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gods-gift
 - 👀 I’m interested in PROBLEM SOLVING
 - 🌱 I’m currently learning SOMETHING
-- 💞️ I’m looking to collaborate on DATA STRUCTURES AND ALGORITHMS 
+- 💞️ I’m looking to collaborate on WEB DEV
 - 📫 How to reach me veenuchhabra2@gmail.com
 
 <!---
